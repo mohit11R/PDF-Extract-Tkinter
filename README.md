@@ -10,3 +10,9 @@ from tkinter.filedialog import askopenfile
 
 ```
 
+
+![alt text](https://github.com/mohit11R/PDF-Extract-Tkinter/blob/main/tk.PNG?raw=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![alt text](https://github.com/mohit11R/PDF-Extract-Tkinter/blob/main/tk1.PNG?raw=true)
